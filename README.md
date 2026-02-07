@@ -92,7 +92,7 @@ Edit `.env` file:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=employee_db
+DB_DATABASE=emp_db
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -100,7 +100,7 @@ DB_PASSWORD=
 Create the database in MySQL:
 
 ```sql
-CREATE DATABASE employee_db;
+CREATE DATABASE emp_db;
 ```
 
 ### 6. Run Migrations
