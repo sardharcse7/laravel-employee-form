@@ -116,3 +116,8 @@ php artisan serve
 ```
 
 Open in browser: **http://127.0.0.1:8000/employee/create**
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
